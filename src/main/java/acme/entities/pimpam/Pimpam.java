@@ -36,7 +36,7 @@ public class Pimpam extends AbstractEntity {
 	@Pattern(regexp = "^([A-Z]{2}:)?[A-Z]{3}-[0-9]{3}$")
 	protected String code;
 	
-	
+	 
     @Temporal(TemporalType.TIMESTAMP)
     @Past
     @NotNull
