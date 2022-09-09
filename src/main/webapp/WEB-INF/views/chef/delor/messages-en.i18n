@@ -1,0 +1,24 @@
+chef.delor.list.label.keylet= Keylet
+chef.delor.list.label.instantiationMoment= Instantiation Moment
+chef.delor.list.label.subject= Subject
+chef.delor.list.label.explanation= Explanation
+chef.delor.list.label.startsAt= StartsAt
+chef.delor.list.label.finishesAt= FinishedAt
+chef.delor.list.label.income= Income	
+chef.delor.list.label.link= Link
+
+chef.delor.form.label.keylet= Keylet
+chef.delor.form.label.instantiationMoment= Instantiation Moment
+chef.delor.form.label.subject= Subject
+chef.delor.form.label.explanation= Explanation
+chef.delor.form.label.startsAt= StartsAt
+chef.delor.form.label.finishesAt= FinishedAt
+chef.delor.form.label.income= Income	
+chef.delor.form.label.moreInfo= More Info
+
+chef.pimpam.form.button.create= Create Delor
+chef.pimpam.form.button.delete= Delete Delor
+chef.pimpam.form.button.update=Update Delor
+
+
+
