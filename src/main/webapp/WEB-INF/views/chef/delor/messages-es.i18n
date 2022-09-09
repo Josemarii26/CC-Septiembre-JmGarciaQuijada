@@ -1,0 +1,21 @@
+chef.delor.list.label.keylet= Código
+chef.delor.list.label.instantiationMoment= Momento de cración
+chef.delor.list.label.subject= Asignatura
+chef.delor.list.label.explanation= Explicación
+chef.delor.list.label.startsAt= Inicia en
+chef.delor.list.label.finishesAt= Finaliza en
+chef.delor.list.label.income= Ingresos	
+chef.delor.list.label.link= Link
+
+chef.delor.form.label.keylet= Código
+chef.delor.form.label.instantiationMoment= Momento de cración
+chef.delor.form.label.subject= Asignatura
+chef.delor.form.label.explanation= Explicación
+chef.delor.form.label.startsAt= Inicia en
+chef.delor.form.label.finishesAt= Finaliza en
+chef.delor.form.label.income= Ingresos	
+chef.delor.form.label.moreInfo = Más Información
+
+chef.pimpam.form.button.create= Crea tu pimpam
+chef.pimpam.form.button.delete= Borra este pimpam
+chef.pimpam.form.button.update= Actualiza este pimpam

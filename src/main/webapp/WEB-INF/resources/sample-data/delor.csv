@@ -1,0 +1,3 @@
+key,keylet,instantiationMoment,subject,explanation,startsAt,finishesAt,income,moreInfo,key:cookingItem
+delor-04,000000:123456,2021/06/05 15:32,Hola texto de prueba,Hola texto de prueba,2021/07/06 15:32,2021/07/13 15:22,EUR 50.00,https://youtube.com/,cookingItem-03
+delor-05,123456:123456,2021/06/05 15:32,Hola texto de prueba,Hola texto de prueba,2021/07/06 15:22,2021/07/13 15:22,EUR 25.00,https://youtube.com/,cookingItem-05
